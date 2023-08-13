@@ -1,0 +1,3 @@
+name: Acrobat-AntiCheat
+version: '${project.version}'
+main: me.alek.acrobatanticheat.Acrobat_AntiCheat
